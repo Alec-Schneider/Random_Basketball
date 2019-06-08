@@ -1,0 +1,45 @@
+Current league leaders with minimum of 1000MP:
+Current G leader in the league is: Bradley Beal
+Worst G in the league is: John Wall
+Current MP leader in the league is: Bradley Beal
+Worst MP in the league is: Jeremy Lin
+Current PER leader in the league is: Giannis Antetokounmpo
+Worst PER in the league is: Avery Bradley
+Current TS% leader in the league is: Thomas Bryant
+Worst TS% in the league is: Bruce Brown
+Current 3PAr leader in the league is: Darius Miller
+Worst 3PAr in the league is: Rudy Gobert
+Current FTr leader in the league is: Rudy Gobert
+Worst FTr in the league is: Avery Bradley
+Current ORB% leader in the league is: Andre Drummond
+Worst ORB% in the league is: Kyle Korver
+Current DRB% leader in the league is: DeAndre Jordan
+Worst DRB% in the league is: Terrance Ferguson
+Current TRB% leader in the league is: Hassan Whiteside
+Worst TRB% in the league is: Terrance Ferguson
+Current AST% leader in the league is: Russell Westbrook
+Worst AST% in the league is: JaVale McGee
+Current STL% leader in the league is: Marcus Smart
+Worst STL% in the league is: Robin Lopez
+Current BLK% leader in the league is: Mitchell Robinson
+Worst BLK% in the league is: Bojan Bogdanovic
+Current TOV% leader in the league is: Draymond Green
+Worst TOV% in the league is: Langston Galloway
+Current USG% leader in the league is: James Harden
+Worst USG% in the league is: P.J. Tucker
+Current OWS leader in the league is: James Harden
+Worst OWS in the league is: Josh Jackson
+Current DWS leader in the league is: Giannis Antetokounmpo
+Worst DWS in the league is: Collin Sexton
+Current WS leader in the league is: Giannis Antetokounmpo
+Worst WS in the league is: Josh Jackson
+Current WS/48 leader in the league is: Giannis Antetokounmpo
+Worst WS/48 in the league is: Josh Jackson
+Current OBPM leader in the league is: James Harden
+Worst OBPM in the league is: Josh Jackson
+Current DBPM leader in the league is: Mitchell Robinson
+Worst DBPM in the league is: Jamal Crawford
+Current BPM leader in the league is: James Harden
+Worst BPM in the league is: Jamal Crawford
+Current VORP leader in the league is: James Harden
+Worst VORP in the league is: Collin Sexton
